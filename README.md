@@ -2,6 +2,9 @@
 
 The objective of this project was to evaluate the sales and profit performance of Adidas products in the U.S. for the years 2020 and 2021. The dataset contained extensive information, including retailer details, invoice dates, regions, states, product specifics, unit prices, units sold, and total sales and profit figures. Utilizing Power BI, the project sought to extract meaningful insights into sales trends, identify high-performing products for marketing initiatives, and develop strategies for future sales growth.
 
+### Dataset
+https://github.com/Mrtin9/Addidas-Sales-Data-Analysis/blob/main/Addidas.xlsx
+
 ### Objectives 
 
 1. **Evaluate Sales Performance:**
