@@ -47,6 +47,9 @@ https://github.com/Mrtin9/Addidas-Sales-Data-Analysis/blob/main/Addidas.xlsx
 
 ### Dashboards
 https://github.com/Mrtin9/Addidas-Sales-Data-Analysis/blob/main/Addidas.pbix
+![Screenshot 2024-12-19 114956](https://github.com/user-attachments/assets/86f24313-ba76-42af-b0a9-afc3a8ae07c0)
+![Uploading Screenshot 2024-12-19 115017.png…]()
+
 ### Conclusion:
 Adidas is performing remarkably in the retail sector, driven by robust sales performance, strategic partnerships with retailers, and a diverse product lineup that addresses various consumer needs. These insights can inform Adidas's strategic enhancements, helping maintain its status as a leading player in the retail market.
 
