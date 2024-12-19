@@ -4,7 +4,6 @@ The objective of this project was to evaluate the sales and profit performance o
 
 ### Dataset
 https://github.com/Mrtin9/Addidas-Sales-Data-Analysis/blob/main/Addidas.xlsx
-
 ### Objectives 
 
 1. **Evaluate Sales Performance:**
@@ -46,6 +45,8 @@ https://github.com/Mrtin9/Addidas-Sales-Data-Analysis/blob/main/Addidas.xlsx
    - The matrix visualization offered a comprehensive overview of sales and profit metrics across retailers, states, and cities, enabling decision-makers to easily identify top-selling regions and areas for potential growth.
    - These visualizations facilitated quick comparisons across different categories, assisting the management team in making informed, data-driven decisions efficiently.
 
+### Dashboards
+https://github.com/Mrtin9/Addidas-Sales-Data-Analysis/blob/main/Addidas.pbix
 ### Conclusion:
 Adidas is performing remarkably in the retail sector, driven by robust sales performance, strategic partnerships with retailers, and a diverse product lineup that addresses various consumer needs. These insights can inform Adidas's strategic enhancements, helping maintain its status as a leading player in the retail market.
 
